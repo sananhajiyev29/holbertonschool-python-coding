@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Module 3-square: defines a square class with size getter/setter and area calculation"""
+"""Module 3-square: defines a square class with size getter/setter
+and area calculation.
+"""
 
 
 class Square:
